@@ -77,7 +77,15 @@ $min-width : 1318px;
 .icon__design{
     width: 50px;
     height: 50px;
-    
+
+}
+
+.nav__hover:hover{
+    color: rgb(3, 153, 253);
+    border-bottom: 2px solid rgb(3, 153, 253);
+    transition: .4s;
+    overflow: hidden;
+    outline: none;
 }
 
  
